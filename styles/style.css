@@ -1,11 +1,53 @@
+
+
+#cedaa-logo {
+    width: 152px;
+    margin-bottom: 32px;
+    margin-left: 178px;
+}
+
 #top-nav ul {
     padding: 0;
+    margin-right: 20px;
 }
+
+.img-hero {
+    width: 100%;
+    margin-top: 278px;
+    margin-bottom: 362px;
+}
+
+#top-nav li {
+    list-style-type: none;
+    margin-right: 24px;
+    border-bottom: 2px solid white;
+    padding-bottom: 4px;
+    display: inline;
+}
+
+#top-nav li:hover {
+    border-bottom: 2px solid black;
+    padding-bottom: 4px;
+}
+
+.margin-default {
+    margin: 0 0px;
+}
+
 
 .padding-40 {
     padding: 40px 0;
 }
+
+.flex-row-center {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin-right: 0px;
+}
+
 .rectangle {
-    background-image: url(file:///C:/Users/Olyverr/Documents/DESN340/P4/assets/rectangle-5.jpg);
+    background-image: url(file:///C:/Users/Olyverr/Documents/DESN340/P4/assets/rectangle-5.svg);
     background-repeat: no-repeat;
 }
