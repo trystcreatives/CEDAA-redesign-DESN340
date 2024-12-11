@@ -5,3 +5,7 @@
 .padding-40 {
     padding: 40px 0;
 }
+.rectangle {
+    background-image: url(file:///C:/Users/Olyverr/Documents/DESN340/P4/assets/rectangle-5.jpg);
+    background-repeat: no-repeat;
+}
