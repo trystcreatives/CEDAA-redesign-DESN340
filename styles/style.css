@@ -39,6 +39,10 @@
     padding: 40px 0;
 }
 
+.padding-sides {
+    padding: 0 80px;
+}
+
 .flex-row-center {
     display: flex;
     flex-direction: row;
@@ -47,7 +51,9 @@
     margin-right: 0px;
 }
 
-.rectangle {
+.pinkrectangle {
     background-image: url(file:///C:/Users/Olyverr/Documents/DESN340/P4/assets/rectangle-5.svg);
+    background-size: cover;
     background-repeat: no-repeat;
+    margin-right: 1000px;
 }
